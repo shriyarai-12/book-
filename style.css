@@ -1,0 +1,14 @@
+<style>
+    /* Custom CSS */
+    /* Add your custom styles here */
+    .carousel-item img {
+      height: 400px; /* Adjust the height of carousel images */
+    }
+    .card {
+      transition: transform 0.3s; /* Add smooth transition effect on card hover */
+    }
+    .card:hover {
+      transform: translateY(-5px); /* Lift card slightly on hover */
+    }
+    /* Add more custom styles as needed */
+  </style>
